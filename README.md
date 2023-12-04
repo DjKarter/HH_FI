@@ -1,4 +1,4 @@
-# React + TypeScript + Vite
+# Выбрал Vite(React и TypeScript), потому что про него слышал, и использовал менеджер пакетов yarn
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
